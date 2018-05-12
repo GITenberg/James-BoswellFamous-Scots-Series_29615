@@ -1,0 +1,32 @@
+_repo: James-BoswellFamous-Scots-Series_29615
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29615-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leask, W. Keith (William Keith)
+    alias: Leask, William Keith
+    birthdate: 1857
+    deathdate: 1925
+    gutenberg_agent_id: '34035'
+    url: http://www.gutenberg.org/2009/agents/34035
+    wikipedia: http://en.wikipedia.org/wiki/William_Keith_Leask
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2009-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 10
+subjects:
+- !lcc 'PR'
+- !lcsh 'Biographers -- Great Britain -- Biography'
+- !lcsh 'Boswell, James, 1740-1795'
+- !lcsh 'Authors, Scottish -- 18th century -- Biography'
+title: James Boswell
+url: http://www.gutenberg.org/ebooks/29615
